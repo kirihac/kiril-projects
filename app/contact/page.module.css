@@ -1,0 +1,21 @@
+.cont{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+    font-size: large;
+   
+}
+
+.link{
+    color: #ffffff;
+    font-weight: bold;
+}
+.link:hover{
+color: #9e0404;
+}
+
+.head{
+    padding-bottom: 10px;
+}
+
